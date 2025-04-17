@@ -91,8 +91,8 @@ export default function Dashboard() {
         <CategoryPieChart transactions={transactions} />
       </div>
       
-      <Link href="/transactions">
-        <a className="text-blue-500 underline">Manage Transactions</a>
+      <Link href="/transactions"className="text-blue-500 underline">
+        Manage Transactions 
       </Link>
     </div>
   );

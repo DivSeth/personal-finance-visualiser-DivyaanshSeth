@@ -99,8 +99,7 @@ export default function TransactionsPage() {
         </tbody>
       </table>
       
-      <Link href="/">
-        <a className="text-blue-500 underline mt-4 inline-block">Back to Dashboard</a>
+      <Link href="/"className="text-blue-500 underline mt-4 inline-block">Back to Dashboard
       </Link>
     </div>
   );
